@@ -1,0 +1,6 @@
+This step file of the assembly has been made from our actual CAD which is already in the CAD folder.
+
+This was made because many toolbox components sometimes may fail to load in other person's solidowrks device if their toolbox is in temporary folder.
+
+A single step file of the whole assembly also facilited us sharing among members 
+quickly as a single file and ensuring everything in the assembly gets included, nothing referenced gets failed to be loaded, otherwise referenced files may fail to load if the main file is somehow missing.
