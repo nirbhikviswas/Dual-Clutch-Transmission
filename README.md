@@ -1,7 +1,6 @@
 # ⚙️ 4-Speed Modular Dual-Clutch Transmission (DCT)
 
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Platform: 3D Printed](https://img.shields.io/badge/Platform-3D_Printed-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-orange)
-
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Platform: 3D Printed](https://img.shields.io/badge/Platform-3D_Printed-blue)
 > <img width="1323" height="964" alt="full assembly image 3" src="https://github.com/user-attachments/assets/c9c0feb5-8154-47f2-b94f-4c615809c1ff" />
 > <img width="887" height="633" alt="image" src="https://github.com/user-attachments/assets/9a6f8eae-ad6b-4374-9d6d-27ff35138c11" />
 
